@@ -1,0 +1,64 @@
+body {
+    margin: 0px;
+    font-family: 'Arial', sans-serif;
+    color: #d2e8f3;
+    background-image: url(1.jpeg);
+    transition-duration: 1s;
+    background-size: 100%; /* Ensure the background image covers the entire container */
+    background-repeat: repeat; /* Prevent the background image from repeating */
+    background-position: center;
+    background-color: black;
+  }
+  
+  header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 8px ;
+    z-index: 1000;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav a {
+    color: #009dab;
+    background-color:#c8c6c6;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 0 20px;
+    transition: color 0.3s; 
+  }
+  
+  nav a:hover {
+    background-color: #000000; 
+  }
+  
+  section {
+    height: 350px; 
+    margin-top: 3px;
+    padding: 50px;
+    ;
+  }
+  #home{
+    margin: 100px 50px 50px 50px;
+    background-color: #ced4da;
+    border-radius: 10px;
+  }
+  #about{
+    margin: 100px 50px 50px 50px;
+    background-color: #ced4da;
+    border-radius: 10px;
+  }
+  #services{
+    margin: 100px 50px 50px 50px;
+    background-color: #ced4da;
+    border-radius: 10px;
+  }
+  #contact{
+    margin: 100px 50px 50px 50px;
+    background-color:#ced4da;
+    border-radius: 10px;
+  }
