@@ -7,8 +7,6 @@ The Formula 1 Interactive Navigation Menu is a web application designed to provi
 # Features
 User-Friendly Interface: The navigation menu offers intuitive links to different sections, making it easy for users to find relevant information.
 
-Live Updates: Get real-time race updates, statistics, and team insights directly from the dashboard.
-
 Comprehensive Content: Explore a wide range of topics, including circuit information, team services, driver insights, fan engagement, race history, schedule, and ticketing options.
 
 Responsive Design: The application is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
