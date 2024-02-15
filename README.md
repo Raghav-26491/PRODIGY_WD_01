@@ -16,6 +16,15 @@ Responsive Design: The application is designed to be responsive, ensuring a seam
 Dynamic Background: The background color of the header dynamically changes based on the user's scroll position, providing a visually engaging experience.
 
 # Technologies Used
+
 HTML5
+
 CSS3
+
 JavaScript
+
+<img width="1438" alt="F1 Navigation Menu 1" src="https://github.com/Raghav-26491/PRODIGY_WD_01/assets/145380406/faec788d-3655-4663-8f1c-9d232440339d">
+
+<img width="1438" alt="F1 Navigation Menu 2" src="https://github.com/Raghav-26491/PRODIGY_WD_01/assets/145380406/619f9209-eea0-4a44-af69-6e111aad7db9">
+
+
